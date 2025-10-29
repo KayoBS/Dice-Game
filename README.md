@@ -15,5 +15,5 @@ Trabalho de jogo de dados (apostas) para a matéria Programação Orientada a Ob
 - O valor do chute do jogador deve ser um valor entre 2 e 12;
 - Pode haver mais de um vencedor por partida.
 ## Diagrama de Classes
-! [diagrama de classes] (Documents/Models.png)
+![diagrama de classes](Documents/Models.png)
 ## Diagrama de Casos de Uso
