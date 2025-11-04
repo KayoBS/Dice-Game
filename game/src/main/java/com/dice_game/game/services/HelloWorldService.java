@@ -1,4 +1,4 @@
-package com.dice_game.demo.services;
+package com.dice_game.game.services;
 
 import org.springframework.stereotype.Service;
 
